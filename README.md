@@ -1,0 +1,1 @@
+É aqui que comecei aprender python, tudo nessa pasta eu fiz manualmente.

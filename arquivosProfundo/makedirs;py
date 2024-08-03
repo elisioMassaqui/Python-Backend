@@ -1,0 +1,6 @@
+import os
+
+# Criar diretórios para organização de arquivos
+os.makedirs('projeto/imagens', exist_ok=True)
+os.makedirs('projeto/documentos', exist_ok=True)
+os.makedirs('projeto/scripts', exist_ok=True)
